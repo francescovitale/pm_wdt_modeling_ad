@@ -1,0 +1,5 @@
+Time: 0.002124309539794922
+Places: 26
+Transitions: 24
+Arcs: 50
+Size: 12.911
